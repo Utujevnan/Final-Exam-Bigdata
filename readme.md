@@ -1,5 +1,5 @@
-#Name: Utuje Vanessa
-#ID: 27570
+# Name: Utuje Vanessa
+# ID: 27570
 
 # Rwanda Infant Mortality Analytics Project
 
